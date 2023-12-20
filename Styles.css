@@ -1,0 +1,78 @@
+#logo {
+    height: 10px;
+    width: 10px;
+    margin-right: 20px;
+    float: right;
+}
+
+.form-check {
+    float: right;
+}
+
+#container {
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 500px;
+    padding: 100px;
+    height: 300px;
+}
+
+.form-label {
+    font-size: 30px;
+}
+
+#display {
+    margin: 0 auto;
+    align-items: center;
+    width: 500px;
+    height: 300px;
+}
+
+#name {
+    font-size: 30px;
+}
+
+#flex {
+    display: flex;
+}
+
+#image {
+    align-items: center;
+    margin: 5px;
+    padding: 1px;
+    width: 150px;
+    height: 150px;
+}
+
+img {
+    width: 140px;
+    height: 140px;
+    border-radius: 5px;
+}
+
+#repolist {
+    width: 500;
+    height: 300;
+    margin: 0 auto;
+}
+
+.repobtn {
+    margin: 1px;
+    color: white;
+    border: none;
+}
+
+.repobtn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.links {
+    text-decoration: none;
+    color: white;
+}
+
+.links:hover {
+    text-decoration: none;
+    color: white;
+}
